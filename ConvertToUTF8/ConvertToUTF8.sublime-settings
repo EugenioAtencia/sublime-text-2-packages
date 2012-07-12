@@ -1,0 +1,12 @@
+{
+	// Maximum size for encoding cache, 0 means no cache
+	"max_cache_size" : 100,
+
+	// Maximum lines to detect, 0 means unlimited
+	"max_detect_lines" : 600,
+
+	// Convert encoding options when loading/saving: always, never
+	"convert_on_load" : "always",
+	"convert_on_save" : "always"
+
+}
